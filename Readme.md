@@ -1,0 +1,1 @@
+Aprendizado de programação paralela usando a linguagem C e as bibliotecas OpenMP e MPI.
